@@ -3,6 +3,11 @@
 
 using namespace std;
 
+void EditTask()
+{
+    cout << "Task edited successfully." << endl;
+}
+
 int main()
 {
     cout << "=== Task Manager ===" << endl;
